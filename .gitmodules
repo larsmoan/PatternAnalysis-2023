@@ -3,3 +3,6 @@
 	url = https://github.com/WongKinYiu/yolov7
 
 
+[submodule "lesion_detection_larsmoan/mrcnn"]
+	path = lesion_detection_larsmoan/mrcnn
+	url = git@github.com:larsmoan/Mask_RCNN.git
